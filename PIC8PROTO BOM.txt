@@ -1,0 +1,10 @@
+PIC-8-PROTO  :  BILL OF MATERIALS
+
+#	 Q  DESC			PART NUM		SOURCE		NOTE
+------------------------------------------------------------------------------------------------------------------
+1	(1) PIC-8-PROTO PCB		Made to order. 				See GIT for gerbers.
+2	(1) HAMMOND ENCLOSURE		1551KTBU		Hammond		PCB designed for this enclosure
+3	(1) LDO VOLTAGE REGULATOR	MCP1700-XXX 		Microchip	See datasheet voltages
+4	(1) 0.1uF CERAMIC CAPACITOR	RDER71H104K0M1H03A	Murata		Really, any .1uF ceramic will do	
+5	(1) 1.0uF CERAMIC CAPACITOR	RDER71H105K2K1H03B	Murata		any 1uF ceramic will do
+6	(1) 8-PIN MACHINE SCREW SOCKET	115-43-308-41-003000	Mill-Max	Most any 8pin socket will do
