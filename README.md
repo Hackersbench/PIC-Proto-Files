@@ -6,3 +6,4 @@ The modular nature of my HackaDay Prize entry suggests that I will be building a
 
 The PCB was created using DipTrace. The board art file is included in this repository, and a free version of DipTrace may be downloaded from:  https://diptrace.com/download/download-diptrace/#DownloadForm/1/
 
+Gerbers are also provided so that you can simply send them off to a PCB fab house without editing.
